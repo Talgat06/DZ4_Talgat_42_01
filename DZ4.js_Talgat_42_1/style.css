@@ -1,0 +1,37 @@
+/*Задание 2*/
+.block {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+/*Задание 3*/
+.traffic-light {
+    width: 500px;
+    height: 150px;
+    background-color: #4b4b4b;
+    margin-left: 560px;
+    margin-top: -300px;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.red {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 50%;
+}
+.yellow {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 50%;
+}
+.green {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
